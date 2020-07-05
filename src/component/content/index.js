@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "./styles.css";
 import Card from "./card";
-import ContentItem1 from "./contentitem1";
 
 class Content extends Component {
   render() {
