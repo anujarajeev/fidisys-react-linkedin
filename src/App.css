@@ -1,38 +1,126 @@
-.App {
-  text-align: center;
+.App{
+    background-color:#edf3f9;
+    width: 100%;
+}
+/* header{
+    height: 10%;
+    width: 100%; */
+    /* border: 1px solid red; */
+    /* display: flex;
+    align-items: center;
+    justify-content: end;
+} */
+/* .icon{
+    width: 3%;
+}
+.icon img{
+    width: 100%;
+}
+.about{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.feed{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: smaller;
+
+}
+.feed img{
+    width: 35%;
+    padding: 0px 0px 15px 0px
+}
+.network img{
+    width: 35%;
+    padding: 0px 0px 15px 0px
+}
+.network{
+    display: flex;   
+     font-size: smaller;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.chats img{
+    width: 45%;
+    padding: 0px 0px 14px 0px
+}
+.chats{
+    display: flex;
+    font-size: smaller;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.jobs img{
+    width: 35%;
+    padding: 0px 0px 10px 0px
+}
+.jobs{
+    font-size: smaller;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+input{
+    width: -webkit-fill-available;
+    border-color: transparent;
+    height: 50px;
+    background-image: 'searchicon.png';
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.others{
+    width: 7%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.profile-views{
+    width: 30%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: smaller;
 }
-
-.App-link {
-  color: #61dafb;
+.search{
+    width: 30%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container{
+    height: 70%;
+    width: 100%;
+    background-color: #79a8ce14;
 }
+footer{
+height: 20%;
+width: 100%;
+}
+.icon{
+    width: 10%;
+}
+.title{
+height:25%;
+border: 1px solid;
+box-sizing: border-box;
+}
+.content{
+    height: 50%;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+.skill{
+    height: 25%;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+.content1{
+    background-color: white;
+} */
